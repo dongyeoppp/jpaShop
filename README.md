@@ -1,7 +1,7 @@
 # jpaShop
 
 * SpringBoot와 JPA를 사용한 상품 구매 및 회원 관리 기능 구현  
-* H2 데이터베이스를 사용하였고, 기본적인 기능에 대해서만 구현 
+* H2 데이터베이스를 사용하였고, CRUD 기능 구현 
 
 * main 페이지  
   ![스크린샷 2024-09-26 215257](https://github.com/user-attachments/assets/89021f03-e9e1-4c7a-9e3b-577150e8f286)
